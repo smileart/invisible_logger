@@ -1,5 +1,11 @@
 # 🕵🏻‍♂️ InvisibleLogger
 
+<p align="center">
+  <img width="460" title="hero" src ="./img/invisible_logger.png" />
+</p>
+
+> [![Build Status](https://travis-ci.org/smileart/invisible_logger.svg?branch=master)](https://travis-ci.org/smileart/invisible_logger) [![Gem](https://img.shields.io/gem/v/invisible_logger.svg)](https://rubygems.org/gems/invisible_logger)
+
 > A tool to output complex logs with minimal intrusion and smallest possible footprint in the "host" code + additional ability to aggregate separate logs.
 
 You know how sometimes one can't see the wood for the trees? The same happens with an extensive logging, when long or even multiline logs polute your code and it's hard to see the business logic behind all the noise they create. InvisibleLogger is an attempt to solve this issue.
