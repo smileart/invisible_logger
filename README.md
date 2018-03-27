@@ -1,4 +1,4 @@
-# 🕵🏻‍♂️ InvisibleLogger
+# 🕵🏻‍ InvisibleLogger
 
 <p align="center">
   <img width="460" title="hero" src ="./img/invisible_logger.png" />
@@ -28,7 +28,7 @@ Or install it yourself as:
 
 ## Usage
 
-Have you ever encountered the situation when you can hardly see the business logic behind the logging? Let's consider an example: 
+Have you ever encountered the situation when you can hardly see the business logic behind the logging? Let's consider an example:
 
 ```ruby
 # 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧

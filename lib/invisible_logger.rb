@@ -5,7 +5,7 @@
 # footprint in the "host" code + additional ability to aggregate separate logs
 class InvisibleLogger
   # Lib Semantic Version Constant
-  VERSION = '0.1.0'
+  VERSION = '0.1.1'
 
   # Read-only content of the buffered logs
   # @see #buffer
