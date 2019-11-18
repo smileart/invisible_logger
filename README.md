@@ -94,7 +94,7 @@ end
 # 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧
 ```
 
-While the log messages themselves live in a separate dedicated place (*but, don't worry about any context lose, InvisibleLogger has DEBUG mode and customisable markers for each messag, plus error messages about wrong var names are quite readable*):
+While the log messages themselves live in a separate dedicated place (*but, don't worry about loosing the context, InvisibleLogger has DEBUG mode and customisable markers for each message, plus error messages about wrong var names are quite readable*):
 
 ```ruby
 module LogStencils
